@@ -1,0 +1,8 @@
+Coje datos a analizar (pandas)
+Elije el tipo de delito y comuna
+Saca atipicos
+Interpolacion para eliminar atipicos
+Transformaciones
+Regresion Lineal a cada transformada
+Regresion polinomica a cada transformada
+Carculo de margen de error
